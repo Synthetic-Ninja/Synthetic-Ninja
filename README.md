@@ -25,8 +25,8 @@
 <table><tr><td valign="top" width="100%">
   <div align="center">  
 <a href="https://vk.com/synthetic_ninja" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/104258057/223412998-82c24f9f-b064-4d82-84a0-4dca8244b747.png" alt="VK" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Telegram" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/104258057/223413319-44cd11ca-944f-4c9a-a7d2-d4598ad63c08.png" alt="Discord" height="50" /></a> 
+<a href="https://t.me/blackhzzd" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/104258057/223413691-7ce28b94-45aa-4508-88c7-1c8c5c33aff4.png" alt="Telegram" height="50" /></a>
+<a href="https://discordapp.com/users/219151380135280640/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/104258057/223413319-44cd11ca-944f-4c9a-a7d2-d4598ad63c08.png" alt="Discord" height="50" /></a> 
     </div>
   </td></tr></table>
 
