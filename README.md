@@ -58,7 +58,7 @@
 <br/>  
 
 ## Codewars:
-[![codewars](https://www.codewars.com/users/Synthetic-Ninja/badges/large)](https://www.codewars.com/users/Synthetic-Ninja) 
+[![codewars](https://www.codewars.com/users/Synthetic-Ninja/badges/medium)](https://www.codewars.com/users/Synthetic-Ninja) 
 
 <br/>
 
