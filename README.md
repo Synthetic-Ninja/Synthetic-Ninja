@@ -1,3 +1,8 @@
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>
+
+
 # **<div align="center">Привет, меня зовут Тимофей!</div>**  
   
 
@@ -17,7 +22,6 @@
 <br/>  
 
 ## Связь со мной:
-![image](https://user-images.githubusercontent.com/104258057/223404748-6e156f8a-0a9a-47b5-b286-1dc9e8d8a8bb.png)
 
 
 
