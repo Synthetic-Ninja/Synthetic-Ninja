@@ -1,6 +1,4 @@
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
 
 # **<div align="center">Привет, меня зовут Тимофей!</div>**  
@@ -74,7 +72,5 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Synthetic-Ninja&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
 ----
