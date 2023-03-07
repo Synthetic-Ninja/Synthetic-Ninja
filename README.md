@@ -62,7 +62,7 @@
 
 <br/>
 
-## Github Stats  
+## Github:
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Synthetic-Ninja&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>  
