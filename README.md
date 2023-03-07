@@ -57,25 +57,21 @@
 
 <br/>  
 
-
-## Связь со мной:
-  
-  
-
-<br/> 
-
 ## Codewars:
 [![codewars](https://www.codewars.com/users/Synthetic-Ninja/badges/large)](https://www.codewars.com/users/Synthetic-Ninja) 
 
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Synthetic-Ninja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Synthetic-Ninja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<br/> 
+
+## Связь со мной:
 
 
-<br/>  
+ 
 
 
 <br/>
