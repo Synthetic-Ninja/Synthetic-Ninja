@@ -17,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Технологии: 
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,24 +58,26 @@
 <br/>  
 
 
-## Connect with me  
+## Связь со мной:
   
   
 
-<br/>  
+<br/> 
 
+## Codewars:
+[![codewars](https://www.codewars.com/users/Synthetic-Ninja/badges/large)](https://www.codewars.com/users/Synthetic-Ninja) 
+
+<br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Synthetic-Ninja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-<br />
+<br/>  
+
+
+<br/>
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
