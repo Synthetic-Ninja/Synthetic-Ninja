@@ -24,7 +24,7 @@
 ## Связь со мной:
 <table><tr><td valign="top" width="100%">
   <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="![image](https://user-images.githubusercontent.com/104258057/223412998-82c24f9f-b064-4d82-84a0-4dca8244b747.png)" alt="Linux" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/104258057/223412998-82c24f9f-b064-4d82-84a0-4dca8244b747.png" alt="Linux" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
     </div>
