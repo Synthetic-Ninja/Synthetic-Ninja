@@ -16,6 +16,10 @@
 
 <br/>  
 
+## Связь со мной:
+![image](https://user-images.githubusercontent.com/104258057/223404748-6e156f8a-0a9a-47b5-b286-1dc9e8d8a8bb.png)
+
+
 
 ## Технологии: 
 <table><tr><td valign="top" width="33%">
@@ -66,14 +70,5 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Synthetic-Ninja&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>  
-<br/> 
-
-## Связь со мной:
-
-
- 
-
-
-<br/>
 
 ----
